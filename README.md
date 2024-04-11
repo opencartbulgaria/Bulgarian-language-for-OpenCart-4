@@ -1,10 +1,12 @@
 
 # Български език за OpenCart 4 (Bulgarian Language for OpenCart 4)
 
+![Български език за OpenCart 4](https://opencart-marketplace.com/wp-content/uploads/2024/04/bulgarian-lang.jpg)
+
 ## Описание
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg?style=flat-square)](https://php.net/)
-[![GitHub release](https://img.shields.io/github/v/release/opencart/opencart)](https://github.com/opencart/opencart)
+[![GitHub release](https://img.shields.io/github/v/release/opencartbulgaria/Bulgarian-translation-for-OpenCart-4)](https://github.com/opencartbulgaria/Bulgarian-translation-for-OpenCart-4)
 
 ## Изтегляне
 
